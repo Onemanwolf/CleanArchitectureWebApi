@@ -1,0 +1,11 @@
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Domain\bin\Debug\net8.0\MyCleanArchitectureApp.Domain.deps.json
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Domain\bin\Debug\net8.0\MyCleanArchitectureApp.Domain.dll
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Domain\bin\Debug\net8.0\MyCleanArchitectureApp.Domain.pdb
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Domain\obj\Debug\net8.0\MyCleanArchitectureApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Domain\obj\Debug\net8.0\MyCleanArchitectureApp.Domain.AssemblyInfoInputs.cache
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Domain\obj\Debug\net8.0\MyCleanArchitectureApp.Domain.AssemblyInfo.cs
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Domain\obj\Debug\net8.0\MyCleanArchitectureApp.Domain.csproj.CoreCompileInputs.cache
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Domain\obj\Debug\net8.0\MyCleanArchitectureApp.Domain.dll
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Domain\obj\Debug\net8.0\refint\MyCleanArchitectureApp.Domain.dll
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Domain\obj\Debug\net8.0\MyCleanArchitectureApp.Domain.pdb
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Domain\obj\Debug\net8.0\ref\MyCleanArchitectureApp.Domain.dll
