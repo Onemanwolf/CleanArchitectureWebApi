@@ -1,0 +1,17 @@
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\obj\Debug\net8.0\MyCleanArchitectureApp.Application.csproj.AssemblyReference.cache
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\obj\Debug\net8.0\MyCleanArchitectureApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\obj\Debug\net8.0\MyCleanArchitectureApp.Application.AssemblyInfoInputs.cache
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\obj\Debug\net8.0\MyCleanArchitectureApp.Application.AssemblyInfo.cs
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\obj\Debug\net8.0\MyCleanArchitectureApp.Application.csproj.CoreCompileInputs.cache
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\bin\Debug\net8.0\MyCleanArchitectureApp.Application.deps.json
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\bin\Debug\net8.0\MyCleanArchitectureApp.Application.dll
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\bin\Debug\net8.0\MyCleanArchitectureApp.Application.pdb
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\bin\Debug\net8.0\MyCleanArchitectureApp.Domain.dll
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\bin\Debug\net8.0\MyCleanArchitectureApp.Infrastructure.dll
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\bin\Debug\net8.0\MyCleanArchitectureApp.Domain.pdb
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\bin\Debug\net8.0\MyCleanArchitectureApp.Infrastructure.pdb
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\obj\Debug\net8.0\MyCleanA.4C9591A1.Up2Date
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\obj\Debug\net8.0\MyCleanArchitectureApp.Application.dll
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\obj\Debug\net8.0\refint\MyCleanArchitectureApp.Application.dll
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\obj\Debug\net8.0\MyCleanArchitectureApp.Application.pdb
+c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Application\obj\Debug\net8.0\ref\MyCleanArchitectureApp.Application.dll

@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Launch MyCleanArchitectureApp.WebAPI",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/MyCleanArchitectureApp/src/MyCleanArchitectureApp.WebAPI/bin/Debug/net8.0/MyCleanArchitectureApp.WebAPI.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/MyCleanArchitectureApp/src/MyCleanArchitectureApp.WebAPI",
+        "stopAtEntry": false,
+        "serverReadyAction": {
+          "action": "openExternally",
+          "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+        },
+        "env": {
+          "ASPNETCORE_ENVIRONMENT": "Development"
+        },
+        "sourceFileMap": {
+          "/Views": "${workspaceFolder}/MyCleanArchitectureApp/src/MyCleanArchitectureApp.WebAPI/src/MyCleanArchitectureApp.WebAPI/Views"
+        },
+        "justMyCode": true
+      }
+    ]
+  }
