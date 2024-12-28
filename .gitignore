@@ -1,0 +1,37 @@
+# Ignore bin folder
+bin/
+
+# Ignore obj folder
+obj/
+
+# Ignore appsettings.json file
+appsettings.json
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Ignore Rider project files
+.idea/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore npm packages
+node_modules/
+
+# Ignore logs
+*.log
