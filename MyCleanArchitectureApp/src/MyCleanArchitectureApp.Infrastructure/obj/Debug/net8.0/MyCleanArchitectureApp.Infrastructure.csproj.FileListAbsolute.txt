@@ -13,3 +13,4 @@ c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchite
 c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Infrastructure\obj\Debug\net8.0\refint\MyCleanArchitectureApp.Infrastructure.dll
 c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Infrastructure\obj\Debug\net8.0\MyCleanArchitectureApp.Infrastructure.pdb
 c:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Infrastructure\obj\Debug\net8.0\ref\MyCleanArchitectureApp.Infrastructure.dll
+C:\Users\timot\CleanArchitectureWebApi\MyCleanArchitectureApp\src\MyCleanArchitectureApp.Infrastructure\obj\Debug\net8.0\MyCleanArchitectureApp.Infrastructure.sourcelink.json

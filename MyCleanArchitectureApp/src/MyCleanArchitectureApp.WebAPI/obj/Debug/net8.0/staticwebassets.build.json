@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "dQu8ywiW+1KBlPu7vPadg8TUIdmzAkzZldiuuNfjpxM=",
+  "Hash": "DuHlHYLrUHvYHZr5r0av72TOMwLFWyiMfkDPRPkwtiE=",
   "Source": "MyCleanArchitectureApp.WebAPI",
   "BasePath": "_content/MyCleanArchitectureApp.WebAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

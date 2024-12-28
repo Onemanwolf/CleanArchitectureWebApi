@@ -49,10 +49,11 @@ namespace MyCleanArchitectureApp.Infrastructure.Data
 
         public async Task DeleteOrder(Guid orderId)
         {
-            var orderEntity = await _context.Orders.FindAsync(orderId);
-            if (orderEntity != null)
+            var order = await _context.Orders.Include(o => o.OrderItems).FirstOrDefaultAsync(o => o.OrderId == orderId);
+            if (order != null)
             {
-                _context.Orders.Remove(orderEntity);
+                _context.OrderItems.RemoveRange(order.OrderItems); // Remove related OrderItems first
+                _context.Orders.Remove(order);
                 await _context.SaveChangesAsync();
             }
         }

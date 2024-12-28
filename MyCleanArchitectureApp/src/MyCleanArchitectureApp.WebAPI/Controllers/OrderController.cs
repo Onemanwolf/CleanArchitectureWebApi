@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MyCleanArchitectureApp.Application.DTOs;
 using MyCleanArchitectureApp.Application.Interfaces;
+using MyCleanArchitectureApp.Domain.Entities;
 
 namespace MyCleanArchitectureApp.WebAPI.Controllers
 {
@@ -39,29 +40,39 @@ namespace MyCleanArchitectureApp.WebAPI.Controllers
         [HttpPost]
         public async Task<ActionResult<Guid>> CreateOrder(OrderDto orderDto)
         {
+            if (!ModelState.IsValid)
+            {
+
+                return BadRequest(ModelState);
+            }
             var createdOrderId = await _orderService.CreateOrder(orderDto);
-             return Ok(createdOrderId);
+            return Ok(createdOrderId);
+
         }
 
-        [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateOrder(Guid id, OrderDto orderDto)
+         [HttpPut("{id}")]
+    public async Task<IActionResult> UpdateOrder(Guid id, [FromBody] OrderDto orderDto)
+    {
+        if (id != orderDto.OrderId)
         {
-            if (id != orderDto.OrderId)
-            {
-                return BadRequest();
-            }
-
-            try
-            {
-                await _orderService.UpdateOrder(orderDto);
-            }
-            catch (InvalidOperationException ex)
-            {
-                return NotFound(ex.Message);
-            }
-
-            return NoContent();
+            return BadRequest();
         }
+        if (!ModelState.IsValid)
+        {
+            return BadRequest(ModelState);
+        }
+
+        try
+        {
+
+            await _orderService.UpdateOrder(orderDto);
+            return Ok();
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, $"Internal server error: {ex.Message}");
+        }
+    }
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteOrder(Guid id)
